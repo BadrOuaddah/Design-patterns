@@ -71,10 +71,5 @@ public class Employer {
         }
     }
 
-
-    // 1st Create Builder class
-    // 2nd Create Setter of attributes
-    // 3rd Create a constructor
-    // 4th Create build method
 }
 

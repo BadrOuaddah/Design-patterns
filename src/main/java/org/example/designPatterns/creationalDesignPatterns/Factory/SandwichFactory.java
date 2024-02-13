@@ -8,9 +8,9 @@ public class SandwichFactory {
 
         switch (idSandwich) {
             case 1:
-                return new CheeseBurger(); // cannot be referenced from a static context
+                return new CheeseBurger();
             case 2:
-                return new ChickenBurger(); // cannot be referenced from a static context
+                return new ChickenBurger();
         }
         return null;
     }
